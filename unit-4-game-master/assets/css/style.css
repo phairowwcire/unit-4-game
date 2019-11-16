@@ -1,0 +1,30 @@
+
+.diamond{
+    width: 90px;
+    height: 90px;
+    background: cornflowerblue;
+    margin: 0;
+    padding: 0;
+    
+}
+
+#red {
+    color: whitesmoke;
+    background-color: coral;
+    border-color: crimson;
+}
+#blue {
+    color: whitesmoke;
+    background-color: blue;
+    border-color: blueviolet;
+}
+#yellow {
+    color: whitesmoke;
+    background-color: yellow;
+    border-color: yellowgreen;
+}
+#green {
+    color: whitesmoke;
+    background-color: green;
+    border-color: greenyellow;
+}
